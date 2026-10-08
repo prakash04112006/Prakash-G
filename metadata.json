@@ -1,0 +1,6 @@
+{
+  "name": "Pani Thiru Mozhi - Cinematic Birthday Experience",
+  "description": "A magical, interactive cinematic birthday journey for Pani Thiru Mozhi featuring a personalized photo tribute, celebration cake, fireworks, interactive music, and heartfelt wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
